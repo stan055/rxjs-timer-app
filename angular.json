@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rxjs-timer-app"
+    }
+  },
+  "defaultProject": "rxjs-timer-app",
+  "cli": {
+    "analytics": false
+  }
 }
