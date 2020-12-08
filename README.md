@@ -1,5 +1,5 @@
 # RxjsTimerApp
 
-See on StackBlitz  https://stackblitz.com/edit/rx-js-timer?file=src/app/app.component.html
+## See on StackBlitz https://stackblitz.com/edit/rx-js-timer?devtoolsheight=33&file=src/app/app.component.ts
 
 
